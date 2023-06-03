@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @urGODBOY
+- 👋 Hi, I’m @urGODBOY // krish
 - 👀 I’m interested in Coding and development
-- 🌱 I’m currently learning java, C++ and PHP
-- 💞️ I’m looking to collaborate on, Lol no body to :(
-- 📫 How to reach me: fb.com/kidismalla/ - NULL
+- 🍳 I also cook good lol
+- 🌱 I’m currently learning C (useless) & PHP
+- 💞️ I have a beautiful Girlfriend & I love her sm lol
+- 📫 E-mail : contact@bestcook.cf
 
 <!---
 urGODBOY/urGODBOY is a ✨ special ✨ repository because its `README.md`
