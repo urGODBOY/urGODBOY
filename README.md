@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and development
 - 🍳 I also cook good lol
 - 🌱 I’m currently learning C (useless) & PHP
-- 💞️ I have a beautiful Girlfriend & I love her sm lol
+- 💞️ Also I have a beautiful Girlfriend & I love her sm lol
 - 📫 E-mail : contact@bestcook.cf
 
 <!---
