@@ -31,7 +31,7 @@ Check out some of my notable projects:
 
 I'm always excited to connect with fellow developers and learn from experienced professionals. You can reach out to me through the following channels:
 
-- Email: mailto:contact@bestcooks.cf
+- Email: [contact@bestcooks.cf](mailto:contact@bestcooks.cf)
 
 Feel free to drop me a message or connect with me. I'm open to discussions, collaboration, and mentorship opportunities.
 
