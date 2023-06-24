@@ -1,1 +1,1 @@
-[mit] (https://mit.com/)
+[MIT](https://choosealicense.com/licenses/mit/)
