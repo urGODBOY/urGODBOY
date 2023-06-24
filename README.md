@@ -1,6 +1,1 @@
-**User.Info() {**
-  - name: "Chris",
-  - age: "16",
-  - best@: "cooking, coding... ig",
-  - ~~job: "Student",~~
-**}**
+Hello, This is **ReadMe.md** page. Where you can get all of my ~~Information.~~
