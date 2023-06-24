@@ -1,5 +1,6 @@
-**User.Info() { **
+**User.Info() {**
   - name: "Chris",
   - age: "16",
   - best@: "cooking, coding... ig",
-  - ~~job~~: "__Student__"
+  - ~~job: "Student",~~
+**}**
