@@ -4,7 +4,7 @@ I'm a passionate young developer with a keen interest in programming and open-so
 
 ## 🌟 About Me
 
-- 🔭 I'm currently working on improving my coding skills and building integratable web applications.
+- 🔭 I'm currently working on improving my coding skills and building integrative web applications.
 - 🌱 I'm learning web development, focusing on front-end technologies like HTML, CSS, and JavaScript.
 - 👯 I’m looking to collaborate on open-source projects and contribute to meaningful initiatives.
 
@@ -12,9 +12,9 @@ I'm a passionate young developer with a keen interest in programming and open-so
 
 Here are some technologies I've been working with:
 
-language | Good
----------------------
-nice     |  good
+|language | Good   |
+|------------------|
+|nice     | good   |
 
 ## 🚀 Projects
 
