@@ -16,9 +16,9 @@ Here are some technologies I've been working with:
 |------------|------------|------------------|
 | JavaScript | MySql      | VS Code          |
 | HTML       | MongoDB    | GitHub           |
-| CSS        |     -      | Code Insider     |
-| PHP        |     -      | Visual Studio    |
-| C (Useless)|     -      | replit           |
+| CSS        |            | Code Insider     |
+| PHP        |            | Visual Studio    |
+| C (Useless)|            | replit           |
 
 ## 🚀 Projects
 
