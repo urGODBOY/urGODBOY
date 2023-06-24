@@ -11,14 +11,14 @@ I'm a passionate young developer with a keen interest in programming and open-so
 ## 💻 Tech Stack
 
 Here are some technologies I've been working with:
-
-- **Languages:** JavaScript, HTML, CSS
-- **Front-end:** React, Vue.js
-- **Back-end:** Node.js, Express.js
-- **Databases:** MongoDB, MySQL
-- **Version Control:** Git
-- **Tools:** VS Code, GitHub
-
+`
+Languages: JavaScript, HTML, CSS
+- Front-end: React, Vue.js
+- Back-end: Node.js, Express.js
+- Databases: MongoDB, MySQL
+- Version Control: Git
+- Tools: VS Code, GitHub
+`
 ## 🚀 Projects
 
 Check out some of my notable projects:
