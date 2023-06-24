@@ -29,9 +29,7 @@ Here are some technologies I've been working with:
 
 Check out some of my notable projects:
 
-- [Project 1](https://github.com/yourusername/project1): Brief project description.
-- [Project 2](https://github.com/yourusername/project2): Brief project description.
-- [Project 3](https://github.com/yourusername/project3): Brief project description.
+- **WILL ADD SOON**
 
 ## 📫 Contact Me
 
