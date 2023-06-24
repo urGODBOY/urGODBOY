@@ -12,7 +12,7 @@ I'm a passionate young developer with a keen interest in programming and open-so
 
 Here are some technologies I've been working with:
 
-```js
+`
 **Languages:**
 JavaScript, HTML, CSS, Python, C ___(Useless)___, php, rust.
 **Front-end:**
@@ -25,7 +25,7 @@ MongoDB, MySQL
 Git
 **Tools:**
 VS Code, GitHub, Code Insider, Visual Studio.
-```
+`
 ## 🚀 Projects
 
 Check out some of my notable projects:
