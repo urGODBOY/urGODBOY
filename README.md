@@ -4,7 +4,7 @@ I'm a passionate young developer with a keen interest in programming and open-so
 
 ## 🌟 About Me
 
-- 🔭 I'm currently working on improving my coding skills and building small web applications.
+- 🔭 I'm currently working on improving my coding skills and building integratable web applications.
 - 🌱 I'm learning web development, focusing on front-end technologies like HTML, CSS, and JavaScript.
 - 👯 I’m looking to collaborate on open-source projects and contribute to meaningful initiatives.
 
@@ -43,6 +43,6 @@ Feel free to drop me a message or connect with me. I'm open to discussions, coll
 
 - 🎓 Currently studying in high school, balancing academics with my passion for coding.
 - 🌐 Check out my personal website: [click me!](https://me.chhris.repl.co)
-- ⚡ Fun fact: I enjoy solving puzzles and playing chess in my free time.
+- ⚡ Fun fact: I enjoy solving puzzles, playing games, coding in my free time.
 
 Let's code together and make a difference! 😄
