@@ -12,10 +12,13 @@ I'm a passionate young developer with a keen interest in programming and open-so
 
 Here are some technologies I've been working with:
 
-| Language | Databases| Tools            |
-|----------|----------|------------------|
-| Row 1    | Cell 2   | VS Code          |
-| Row 2    | Cell 5   | GitHub 6         |
+| Language   | Databases  | Tools            |
+|----- ------|------------|------------------|
+| JavaScript | MySql      | VS Code          |
+| HTML       | MongoDB    | GitHub           |
+| CSS        |     -      | Code Insider     |
+| PHP        |     -      | Visual Studio    |
+| C (Useless)|     -      | replit           |
 
 ## 🚀 Projects
 
