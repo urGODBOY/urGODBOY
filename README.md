@@ -15,7 +15,7 @@ Here are some technologies I've been working with:
 | Language     | Front-end    |    Back-end   |      Tools      |   Databases   |  Version Control  | 
 |:------------:|:------------:|:-------------:|:---------------:|:-------------:|:-----------------:|
 | JavaScript   | React.js     |    Node.js    |  VS Code        |    MongoDB    |  GIT              |
-| HTML         | Vue.js       |    Express.js |  GitHub         |     MySQL     |                   |
+| HTML         |              |    Express.js |  GitHub         |     MySQL     |                   |
 | CSS          |              |               |  Code Insider   |               |                   | 
 | PHP          |              |               |  Visual Studio  |               |                   |      
 | C (Useless)  |              |               |  Replit         |               |                   |  
