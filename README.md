@@ -18,8 +18,8 @@ Here are some technologies I've been working with:
 | HTML         |  Node.js             |   GitHub        |     MySQL     |  ~~Subversion (SVN)~~                 |
 | CSS          |  Express.js          |   Code Insider  |               |                  | 
 | PHP          |                      |   Visual Studio |               |                   |      
-| C ___(useless)___  |                      |   Replit        |               |                   |  
-| Rust             | | | | |
+| Rust  |                      |   Replit        |               |                   |  
+|        C ___(useless)___      | | | | |
 ## 🚀 Projects
 
 Check out some of my notable projects:
