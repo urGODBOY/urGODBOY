@@ -12,13 +12,13 @@ I'm a passionate young developer with a keen interest in programming and open-so
 
 Here are some technologies I've been working with:
 
-| Language     | Front-end    |    Back-end   | Tools              |   Databases  | Version Control | Tools              |
-|:------------:|:------------:|:-------------:|:------------------:|:------------:|:---------------:|:------------------:|
-| JavaScript   | React.js     |    Node.js    | VS Code            |   MongoDB    |      GIT        |     VS Code        |
-| HTML         | Vue.js       |    Express.js | GitHub             |    MySQL     |      SVN        |     GitHub         |
-| CSS          |              |               | Code Insider       |              |                 |      Code Insider  |
-| PHP          |              |               | Visual Studio      |              |                 |      Visual Studio |
-| C (Useless)  |              |               | Replit             |              |                 |      Replit        |     
+| Language     | Front-end    |    Back-end   | Version Control  |  Databases  |        Tools      |
+|:------------:|:------------:|:-------------:|:---------------:|:------------:|:-----------------:|
+| JavaScript   | React.js     |    Node.js    |      GIT       |    MongoDB    |   VS Code         |
+| HTML         | Vue.js       |    Express.js |      SVN       |     MySQL     |   GitHub          |
+| CSS          |              |               |                |               |   Code Insider    | 
+| PHP          |              |               |                |               |   Visual Studio   |      
+| C (Useless)  |              |               |                |               |   Replit          |  
     
 ## 🚀 Projects
 
