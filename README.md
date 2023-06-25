@@ -5,7 +5,7 @@ I'm a passionate young developer with a keen interest in programming and open-so
 ## 🌟 About Me
 
 - 🔭 I'm currently working on improving my coding skills and building integrative web applications.
-- 🌱 I'm learning web development, focusing on front-end technologies like HTML, CSS, and JavaScript.
+- 🌱 I'm learning web development, focusing on front-end technologies like electron dot js.
 - 👯 I’m looking to collaborate on open-source projects and contribute to meaningful initiatives.
 
 ## 💻 Tech Stack
