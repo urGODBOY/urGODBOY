@@ -19,7 +19,7 @@ Here are some technologies I've been working with:
 | CSS          |  Express.js          |   Code Insider  |               |                  | 
 | PHP          |                      |   Visual Studio |               |                   |      
 | C ___(useless)___  |                      |   Replit        |               |                   |  
-    
+| Rust             | | | | |
 ## 🚀 Projects
 
 Check out some of my notable projects:
