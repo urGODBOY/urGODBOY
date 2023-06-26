@@ -1,4 +1,4 @@
-# Meet me, I'm [Krish!](https://me.chhris.repl.co) 👋
+# Meet someone, [Krish](https://me.chhris.repl.co)!👋
 
 I'm a passionate young developer with a keen interest in programming and open-source projects. I love exploring new technologies and building innovative web-based integration. Welcome to my GitHub profile!
 
