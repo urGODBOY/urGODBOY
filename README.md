@@ -1,6 +1,7 @@
 # Meet someone, [Krish](https://me.chhris.repl.co)!👋
 
-I'm a passionate young developer with a ridiculous interest in programming and open-source projects. I love exploring new technologies and building innovative web-based integration. *Not Actually writing code for A company or an Individual (business orientated)* Welcome to my GitHub profile!
+I'm a passionate young developer with a ridiculous interest in programming and open-source projects. I love exploring new technologies and building innovative web-based integration. *Not Actually writing code for A company or an Individual (business orientated)*. <br/> 
+Welcome to my GitHub profile!
 
 ## 🌟 About Me
 
