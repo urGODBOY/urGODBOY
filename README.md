@@ -21,7 +21,7 @@ Here are some technologies I've been working with:
 | CSS          |  Express.js          |   Code Insider  |               |                  | 
 | PHP          |                      |   Visual Studio |               |                   |      
 | Rust  |                      |   Replit        |               |                   |  
-|        C ___(useless)___      | | | | |
+|                              | | | | |
 |        My Sql     | | | | |
 ## 🚀 Projects
 
