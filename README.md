@@ -1,6 +1,6 @@
 # Meet someone, Speical: [Krish](https://me.chhris.repl.co)!👋
 
-Passionate developer with a interest in coding based projects & Embedded systems.
+Developer with a interest in coding based projects & Embedded systems.
 
 
 ## 🌟 About Programming: 
