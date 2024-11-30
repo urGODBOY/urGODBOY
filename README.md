@@ -1,6 +1,6 @@
 # Meet someone, Speical: [Krish](https://me.chhris.repl.co)!👋
 
-Developer with a regard in coding based projects & PC building, overclocking, and system optimization.
+Developer with a regard in coding based projects & PC building.
 
 
 ## 🌟 About Programming: 
