@@ -5,7 +5,7 @@ Developer with a regard in coding based projects & Embedded systems.
 
 ## 🌟 About Programming: 
 
-- 🔭 currently working on improving the ultimate coding skills and building integrative SERVERS (HOME/WORK-STATION) & Web-apps.
+- 🔭 currently working on improving the ultimate coding skills and building integrative webapp & SERVERS (HOME/WORK-STATION) & Web-apps.
 - 🌱 focusing on web & back-end development, like vue, react & Advanced JS.
      
 
