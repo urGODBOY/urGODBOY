@@ -6,8 +6,7 @@ Passionate developer with a interest in coding based projects & Embedded systems
 ## 🌟 About Me
 
 - 🔭 currently working on improving the ultimate coding skills and building integrative SERVERS (HOME/WORK-STATION) & Web-apps.
-- 🌱 learning web & back-end development, focusing on front-end technologies like HTML, CSS & Advanced JS.
-- 👯 looking to collaborate on open-source projects.
+- 🌱 focusing on web & back-end development, like vue, react & Advanced JS.
      
 
 ## 💻 Tech Stack
