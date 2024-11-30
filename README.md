@@ -42,4 +42,4 @@ I'm always excited to connect with fellow developers.
 - 🌐 Personal & professional website: [click me!](https://me.chhris.repl.co) 
 - ⚡ FUCK EVERYTHING IS OUTDATED AND I DONT HAVE FUCKING RESOURCES TO MAINTAIN IT UP-TO DATE. SO IT MIGHT BE TAKING SOME YEARS TO BE ON CLOUD.
 
-code together, make a difference! 
+## code together, make a difference! 
