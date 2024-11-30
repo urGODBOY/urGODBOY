@@ -1,13 +1,13 @@
 # Meet someone, [Krish](https://me.chhris.repl.co)!👋
 
-I'm a passionate young developer with a ridiculous interest in programming and open-source projects. I love exploring new technologies and building innovative web-based integration. 
-Welcome to my GitHub profile! 
+Passionate developer with a interest in coding based projects & Embedded systems.
+
 
 ## 🌟 About Me
 
-- 🔭 I'm currently working on improving my coding skills and building integrative web applications.
-- 🌱 I'm learning web development, focusing on front-end technologies like HTML, CSS & Advanced JS.
-- 👯 I’m looking to collaborate on open-source projects and contribute to meaningful initiatives.
+- 🔭 currently working on improving the ultimate coding skills and building integrative SERVERS (HOME/WORK-STATION) & Web-apps.
+- 🌱 learning web & back-end development, focusing on front-end technologies like HTML, CSS & Advanced JS.
+- 👯 looking to collaborate on open-source projects.
      
 
 ## 💻 Tech Stack
