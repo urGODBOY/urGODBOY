@@ -11,7 +11,7 @@ Passionate developer with a interest in coding based projects & Embedded systems
 
 ## 💻 Tech Stack
 
-Here are some technologies I've been working with:
+Languages been working on:
 
 | Language     | Front-end & Back-end |      Tools      |   Databases   |  Version Control  | 
 |:------------:|:--------------------:|:---------------:|:-------------:|:-----------------:|
