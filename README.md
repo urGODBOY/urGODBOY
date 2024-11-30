@@ -40,6 +40,6 @@ I'm always excited to connect with fellow developers.
 
 - 🎓 Currently studying in high school, balancing academics with my passion for coding.
 - 🌐 Personal & professional website: [click me!](https://me.chhris.repl.co) 
-- ⚡ EVERYTHING IS OUTDATED AND I DONT HAVE FUCKING RESOURCES TO MAINTAIN IT UP-TO DATE. SO IT MIGHT BE TAKING SOME YEARS TO BE ON CLOUD.
+- ⚡ EVERYTHING IS OUTDATED MIGHT BE TAKING SOME YEARS TO BE ON CLOUD.
 
 *Thend*
