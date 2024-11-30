@@ -3,7 +3,7 @@
 Passionate developer with a interest in coding based projects & Embedded systems.
 
 
-## 🌟 About Me
+## 🌟 About Me?
 
 - 🔭 currently working on improving the ultimate coding skills and building integrative SERVERS (HOME/WORK-STATION) & Web-apps.
 - 🌱 focusing on web & back-end development, like vue, react & Advanced JS.
@@ -31,11 +31,10 @@ Check out some of my notable projects:
 
 ## 📫 Contact Me
 
-I'm always excited to connect with fellow developers and learn from experienced professionals. You can reach out to me through the following channels:
+I'm always excited to connect with fellow developers.
 
-- Email (also for businesses & co.): [panibarsha124@gmail.co](mailto:panibarsha124@gmail.com)
+- Email : [panibarsha124@gmail.co](mailto:panibarsha124@gmail.com)
 
-Feel free to drop me a message or connect with me. I'm open to discussions, collaboration, and mentorship opportunities.
 
 ## ✨ Additional Information
 
