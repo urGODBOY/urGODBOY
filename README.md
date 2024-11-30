@@ -5,8 +5,8 @@ Developer with a regard in coding based projects & PC building.
 
 ## 🌟 About Programming: 
 
-- 🔭 currently working on improving the ultimate coding skills and building integrative webapp & SERVERS (HOME/WORK-STATION)
-- 🌱 focusing on web & back-end development, like vue, react & Advanced JS.
+- 🔭 working on improving ultimate coding skills and building integrative webapp & SERVERS
+- 🌱 web & back-end development, react & Advanced JS.
      
 
 ## 💻 Tech Stack
