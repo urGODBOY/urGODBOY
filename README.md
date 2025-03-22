@@ -18,7 +18,7 @@ Languages been working on:
 | JavaScript   | React.js             |   VS Code       |    MongoDB    |  **GIT**              |
 | HTML         |  Node.js             |   GitHub        |    MySQL      |  ~~Subversion (SVN)~~                 |
 | CSS          |  Express.js          |   Code Insider  |    Django     |                  | 
-| PHP          |     JS               |   Visual Studio |               |                   |      
+| PHP          |     html, css, js (front-end)               |   Visual Studio |               |                   |      
 | Rust  |                      |   Replit        |               |                   |  
 |                              | | | | |
 |        My Sql     | | | | |
